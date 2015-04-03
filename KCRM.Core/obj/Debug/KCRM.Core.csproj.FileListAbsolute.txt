@@ -1,0 +1,5 @@
+D:\GitHub\KaiserCRM\KCRM.Core\bin\Debug\KCRM.Core.dll
+D:\GitHub\KaiserCRM\KCRM.Core\bin\Debug\KCRM.Core.pdb
+D:\GitHub\KaiserCRM\KCRM.Core\obj\Debug\KCRM.Core.dll
+D:\GitHub\KaiserCRM\KCRM.Core\obj\Debug\KCRM.Core.pdb
+D:\GitHub\KaiserCRM\KCRM.Core\obj\Debug\KCRM.Core.csprojResolveAssemblyReference.cache
