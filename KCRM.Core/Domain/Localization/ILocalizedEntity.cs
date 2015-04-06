@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace KCRM.Core
 {
-    public interface ISettings
+    public interface ILocalizedEntity
     {
     }
 }

@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml;
 
-namespace KCRM.Core.Configuration
+namespace KCRM.Core
 {
     /// <summary>
     /// Represents a NopConfig

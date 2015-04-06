@@ -53,6 +53,11 @@
     <Compile Include="Configuration\ISettings.cs" />
     <Compile Include="Configuration\KCRMConfig.cs" />
     <Compile Include="Data\IRepository.cs" />
+    <Compile Include="Domain\Localization\ILocalizedEntity.cs" />
+    <Compile Include="Domain\Localization\Language.cs" />
+    <Compile Include="Domain\Localization\LocaleStringResource.cs" />
+    <Compile Include="Domain\Localization\LocalizationSettings.cs" />
+    <Compile Include="Domain\Localization\LocalizedProperty.cs" />
     <Compile Include="Exception\KCRMException.cs" />
     <Compile Include="Extensions.cs" />
     <Compile Include="Fakes\Extensions.cs" />
